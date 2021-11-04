@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Teams (Chrome)",
+      "type": "pwa-chrome",
+      "request": "launch",
+      "url": "https://teams.microsoft.com/_#/l/app/{{ClientId}}?installAppPackage=true",
+    }
+  ]
+}
