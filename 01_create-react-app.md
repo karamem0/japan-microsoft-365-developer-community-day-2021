@@ -21,7 +21,7 @@ git clone https://github.com/karamem0/japan-microsoft365-developer-community-day
 1. `create-react-app` を使ってプロジェクトを作成します。
 
     ```cmd
-    create-react-app my-teams-app --template typescript
+    npx create-react-app my-teams-app --template typescript
     ```
 
 1. React のバージョンを 16 に変更します。(Fluent UI が 16 までにしか対応していないため)
